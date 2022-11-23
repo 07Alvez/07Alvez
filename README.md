@@ -2,8 +2,7 @@
 
 - ⌨️ I'm currently working on Java
 - 🎶 I love music
-- ✨ Addresses where you can reach me (Discord)
-- 🕯️ Discord: 
+- 🕯️ Discord: Alves#4391
 
 
 ### Languages
