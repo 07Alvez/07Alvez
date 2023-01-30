@@ -1,13 +1,12 @@
  ### Hi there 👋, I'm Alves
 
-- ⌨️ I'm currently working on Java
-- 🎶 I love music
+- ⌨️ I'm currently working on Python
 - 🕯️ Discord: Alves#4391
 
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 
 ### IDEs I Use
