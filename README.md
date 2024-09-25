@@ -1,18 +1,14 @@
  ### Hi there 👋, I'm Alves
 
-- ⌨️ I'm currently working on Python
-- 🕯️ Discord: Alves#4391
-
+I'm currently learning on C
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-
+[https://img.shields.io/badge/-grey?style=for-the-logo=c](https://img.shields.io/badge/-blue?style=for-the-badge&logo=c)
 
 ### IDEs I Use
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-
 
 ### My Instant Discord Profile
 
