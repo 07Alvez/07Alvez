@@ -4,7 +4,7 @@ I'm currently learning on C
 
 ### Languages
 
-(https://img.shields.io/badge/-blue?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=c)
 
 ### IDEs I Use
 
