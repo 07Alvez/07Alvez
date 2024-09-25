@@ -1,6 +1,6 @@
  ### Hi there 👋, I'm Alves
 
-I'm currently learning on C
+I'm currently learning C
 
 ### Languages
 
