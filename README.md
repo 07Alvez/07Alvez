@@ -1,4 +1,4 @@
- ### Hi there 👋, I'm Alves
+ ### Hi, I'm Alves
 
 ### IDEs I Use
 
